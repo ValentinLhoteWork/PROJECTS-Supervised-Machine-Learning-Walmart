@@ -1,7 +1,7 @@
 # PROJECTS Supervised Machine Learning
 ## Walmart sales
 
-<img width="252" height="200" alt="image" src=https://www.bestdesigns.co/uploads/inspiration_images/4350/990__1511457498_404_walmart.png>
+<img width="252" height="200" alt="image" src=https://www.bestdesigns.co/uploads/inspiration_images/4350/990__1511457498_404_walmart.png />
 
 Company's Description 📇
 
